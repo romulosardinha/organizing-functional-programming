@@ -5,3 +5,5 @@ export const Post2 = {
   checkLike,
   del
 }
+
+Post2.checkLike()

@@ -1,6 +1,5 @@
 export class User {
-    constructor(name, email) {
-        this.name = name;
+    constructor(email) {
         this.email = email;
     }
 
@@ -12,3 +11,7 @@ export class User {
         console.log(`Goodbye: ${this.email}`)
     }
 }
+
+const user = new User('Jhon@c.com')
+user.logIn()
+user.logOut()

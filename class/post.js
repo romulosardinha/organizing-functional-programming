@@ -14,3 +14,6 @@ export class Post {
         console.log('Delete this post')
     }
 }
+
+const post = new Post('John', '1', 'Hello World', '10');
+post.checkLike();
