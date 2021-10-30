@@ -1,0 +1,20 @@
+{
+  "name": "organizing-functional-programming",
+  "version": "1.0.0",
+  "description": "Let's look at several ways to organize our functions to be easy to use and maintain.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romulosardinha/organizing-functional-programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romulosardinha/organizing-functional-programming/issues"
+  },
+  "homepage": "https://github.com/romulosardinha/organizing-functional-programming#readme"
+}
